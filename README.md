@@ -15,4 +15,5 @@ In this example, you will creat a project ('EasyPeasyDataSciense_WB'). Each run 
     * How many time you train your model?.
     * .....
     * Create a team (skip this one).
-5. Go to [Weights & Biases runs page](https://wandb.ai/home) to see your runs and their performance.
+5. Run the [EasyPeasyDataSciense_WB.ipynb](https://github.com/MohamadALissa/EasyPeasyDataSciense_WB/blob/main/EasyPeasyDataSciense_WB.ipynb) notebook example code in Colab.
+6. Go to [Weights & Biases runs page](https://wandb.ai/home) to see your runs and their performance.
