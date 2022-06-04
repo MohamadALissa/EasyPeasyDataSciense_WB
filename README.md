@@ -7,7 +7,7 @@ In this example, you will creat a project ('EasyPeasyDataSciense_WB'). Each run 
     * run2 with different set of parameters.
     * ....etc.
 
-# Quick steps to use Weights & Biases with Google Colab
+## Quick steps to use Weights & Biases with Google Colab
 1. Go to [Weights & Biases web page](https://wandb.ai/site/pricing).
 2. Sign up using your Google email (the same google account you use for Google Colab).
 3. Put your organisation name (you can put it None) and your username.
