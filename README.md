@@ -1,4 +1,4 @@
-# EasyPeasyDataSciense_WB
+# Weights &amp; Biases with Google Colab
 A simple example of how to use the Weights &amp; Biases library for experiments tracking (for EasyPeasyDataSciense page fans).
 
 In this example, you will creat a project ('EasyPeasyDataSciense_WB'). Each run in this project will be tracked. That said, you will have in your Weights &amp; Biases page the following:
